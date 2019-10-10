@@ -1,5 +1,5 @@
 h1 a, h2 a {
-     color: #C7A410;
+     color: #3d11a3;
 }
 body {
     padding-left: 15px;
@@ -9,13 +9,13 @@ h1 a {
     font-family: 'Lobster';
 }
 .page-header {
-    background-color: #C25100;
+    background-color: #f74940;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
-    color: #ffffff;
+    color: #BA99E9;
     font-size: 36pt;
     text-decoration: none;
 }
@@ -51,6 +51,6 @@ h1, h2, h3, h4 {
     margin-bottom: 70px;
 }
 
-.post h2 a, .post h2 a:visited {
+.post h3 a, .post h3 a:visited {
     color: #000000;
 }
